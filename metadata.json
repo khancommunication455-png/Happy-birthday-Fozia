@@ -1,0 +1,8 @@
+{
+  "name": "Ali & Fozia's Birthday Journey",
+  "description": "A cinematic, interactive romantic birthday experience for Fozia, from Ali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
